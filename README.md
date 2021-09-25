@@ -1,2 +1,2 @@
 # Pneumonia-diagnosis
-Pediatric pneumonia diagnosis from lung X-ray images
+The convolutional neural network to diagnosis pediatric pneumonia from lung X-ray images. TensorFlow works in the backend. 
