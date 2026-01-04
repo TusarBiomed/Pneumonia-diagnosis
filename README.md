@@ -97,4 +97,7 @@ This system can be used as:
 
 ## Conclusion
 This CNN-based system demonstrates effective pneumonia diagnosis from pediatric chest X-rays, offering a promising approach to assist medical professionals in early detection and treatment. The comprehensive evaluation metrics provide transparent performance assessment, making it suitable for clinical research applications.
-"""
+
+## Author: Rezaul Karim Tusar,
+- MSc Epidemiology
+- LMU München
